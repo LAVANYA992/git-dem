@@ -1,2 +1,4 @@
 password.txt
-
+s=5
+l=8
+print(s*l)
